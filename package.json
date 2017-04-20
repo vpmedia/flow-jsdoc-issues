@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "flow-jsdoc": "^0.3.0"
+  },
+  "scripts": {
+    "flowjsdoc": "flow-jsdoc -f src/test.js"
+  }
+}

@@ -1,0 +1,12 @@
+git:
+  depth: 1
+
+language: node_js
+node_js:
+  - '6'
+
+env:
+  - TERM=dumb
+
+script:
+  - yarn run flowjsdoc
